@@ -1,11 +1,12 @@
 %define upstream_name    Dist-Zilla-Util-EmulatePhase
-%define upstream_version 0.01025803
+%define upstream_version 1.000000
 
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
 Release:	1
 
 Summary:	A dummy Dist::Zilla to fake a 'prereq' object on
+
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
@@ -50,5 +51,6 @@ perl Build.PL installdirs=vendor
 %doc Changes LICENSE META.json META.yml README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
+
 
 

@@ -1,4 +1,5 @@
 removed_sources:
   Dist-Zilla-Util-EmulatePhase-0.01003312.tar.gz: 6dfbd4da58f170bb3daeeb078698405d472bc849
-sources:
   Dist-Zilla-Util-EmulatePhase-0.01025803.tar.gz: d2c97cb2faa79691afba93640521dfca4f6a5bd0
+sources:
+  Dist-Zilla-Util-EmulatePhase-1.000000.tar.gz: 1e4afe328f6dc038df9074febdf1212272e5bd52
