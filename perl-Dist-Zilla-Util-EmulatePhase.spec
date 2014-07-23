@@ -51,6 +51,3 @@ perl Makefile.PL INSTALLDIRS=vendor
 %doc Changes LICENSE META.json META.yml README
 %{_mandir}/man3/*
 %{perl_vendorlib}/*
-
-
-
